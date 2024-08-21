@@ -2,5 +2,5 @@
 @extends('layout.app')
 
 @section('content')
-<h1>Edit project</h1>
+<h1>Dashboard</h1>
 @endsection
